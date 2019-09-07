@@ -1,3 +1,5 @@
+Adding a bit about myself as I learn GitHub. I'm a web development/design student in Portland. Hoping to use this platform to create better code.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
